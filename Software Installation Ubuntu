@@ -1,0 +1,75 @@
+1) Install git in ubuntu:-
+
+  https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+2) Install Curl in ubuntu
+  
+  https://linuxize.com/post/how-to-install-and-use-curl-on-ubuntu-18-04/
+
+3) Insall Zsh in ubuntu:- 
+
+  https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4
+
+4) Install node and npm in ubuntu :- 
+
+  https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
+
+5) Install NVM in ubuntu for upgrading the node package:- 
+
+  https://phoenixnap.com/kb/update-node-js-version
+
+6) Upgrade npm to latest version:-
+  
+  https://docs.npmjs.com/try-the-latest-stable-version-of-npm (OR) [ Simple Command (npm install -g npm@latest)].
+
+7) Install bower in ubuntu :- 
+  
+  npm install -g bower
+
+8) Install Yarn in ubuntu:-
+  
+  https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/
+
+9) Install ember in ubuntu :- 
+  
+  npm install -g ember-cli
+
+10) Install corber in ubuntu:-
+  
+  npm install -g corber
+
+11) Install jdk in ubuntu:-
+    
+  http://techoral.com/blog/java/install-openjdk-14-ubuntu.html#:~:text=To%20Install%20OpenJDK%2014%20Java,install%20java%20runtime%20environment%20ubuntu.&text=The%20openjdk%2D14%2Djre%20package,just%20the%20Java%20Runtime%20Environment.&text=To%20Install%20OpenJDK%2014%20Java%20Development%20Kit%20(JDK)%20%2D%20Enter,command%20on%20Ubuntu%20command%20line.
+  
+  [
+    a) sudo apt-get install openjdk-14-jre
+    b) sudo apt-get install openjdk-14-jdk
+    c) export JAVA_HOME=/usr/lib/jvm/openjdk-14-jdk
+    d) export PATH=$PATH:$JAVA_HOME/bin
+    e) java --version
+  ]
+
+12) Install graddle in ubuntu:-
+  
+  https://gradle.org/install/
+
+  [
+    a). Download the latest complete Gradle distribution 
+    b). mkdir /opt/gradle
+    c). unzip -d /opt/gradle gradle-6.5.1-bin.zip (for eaxmple in my case:- unzip -d /opt/gradle /home/incredible/Downloads/gradle-6.5.1-all.zip)
+    d). ls /opt/gradle/gradle-6.5.1
+    e). export PATH=$PATH:/opt/gradle/gradle-6.5.1/bin
+    f). gradle -v
+  ]
+
+13) Install Xampp or lampp in ubuntu :- 
+  
+  https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/
+  [
+    After installation the method or command to start xampp:- ( sudo /opt/lampp/lampp start ).
+  ]
+
+14) Removing Apaxhe2 from the ubuntu:
+  
+  apt-get remove apache2
