@@ -2,6 +2,11 @@
 
   https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+  [
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+  ]
+
 2) Install Curl in ubuntu
   
   https://linuxize.com/post/how-to-install-and-use-curl-on-ubuntu-18-04/
