@@ -78,3 +78,7 @@
 14) Removing Apaxhe2 from the ubuntu:
   
   apt-get remove apache2
+
+15) How to Install Filezilla in ubuntu:-
+  
+  sudo apt-get install filezilla
