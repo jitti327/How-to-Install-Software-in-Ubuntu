@@ -77,8 +77,13 @@
 
 14) Removing Apaxhe2 from the ubuntu:
   
-  apt-get remove apache2
+  sudo apt-get remove apache2
 
 15) How to Install Filezilla in ubuntu:-
   
   sudo apt-get install filezilla
+
+16) How to add SSH in github:
+    
+    ssh-keygen -t ed25519 -C "email@gmail.com"
+    https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
