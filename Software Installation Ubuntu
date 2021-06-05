@@ -87,3 +87,7 @@
     
     ssh-keygen -t ed25519 -C "email@gmail.com"
     https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+17) If facing the issue of chrome not opening then :-
+
+    https://linuxhint.com/ubuntu_20-04_google_chrome_installation_guide/
