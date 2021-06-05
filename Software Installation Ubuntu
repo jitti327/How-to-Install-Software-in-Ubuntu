@@ -91,3 +91,7 @@
 17) If facing the issue of chrome not opening then :-
 
     https://linuxhint.com/ubuntu_20-04_google_chrome_installation_guide/
+
+18) Install JDK 8
+
+  https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
