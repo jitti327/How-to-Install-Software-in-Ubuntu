@@ -95,3 +95,9 @@
 18) Install JDK 8
 
   https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
+
+19) Install Git Desktop :-
+
+  sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
+  sudo apt-get install gdebi-core
+  sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
